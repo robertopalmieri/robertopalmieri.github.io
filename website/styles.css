@@ -191,7 +191,7 @@ li ol, li ul {
 	background-color: #FF7918;
 	margin: 0 auto;
 	border-bottom: 10px solid #E66000;
-   	background-image:url('images/banner_top.png');
+	background-image:url('images/banner_top.png');
 }
 
 #header h1 a {
@@ -217,7 +217,12 @@ li ol, li ul {
 #nav {
 	height: 45px;
 	width: 960px;
+	background-image: url('images/lehigh_university_nav_logo.png');
+	background-origin:content-box;
+	background-size: 166px 35px;
+	background-repeat: no-repeat;
 	background-color: #502d0e;
+	background-position: 90% 50%;
 }
 
 #nav ul {
