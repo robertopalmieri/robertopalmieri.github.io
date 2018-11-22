@@ -1,0 +1,1 @@
+scp -oKexAlgorithms=+diffie-hellman-group1-sha1 website/old-news.txt website/index.html website/pubs.html website/research.html website/short_cv.html website/teaching.html palmieri@cse.lehigh.edu:~/WWW-data/
