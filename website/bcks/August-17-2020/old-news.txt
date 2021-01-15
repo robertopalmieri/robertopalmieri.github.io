@@ -1,0 +1,5 @@
+<li>- Our paper "Nemo: NUMA-aware Concurrency Control for Scalable Transactional Memory" has been accepted at <a href="http://oaciss.uoregon.edu/icpp18/index.php">ICPP 2018</a>.</li>
+<li>- Invited to serve as Extended Review Committee member of <a href="https://ppopp18.sigplan.org">PPoPP 2018</a>. Consider to submit and attend!</li>
+<li>- Our paper "Lerna: Parallelizing Dependent Loops Using Speculation" has been accepted at <a href="https://www.systor.org/2018/">SYSTOR 2018</a>.</li>
+<li>- Invited to serve as Program Committee member of <a href="https://www.podc.org">PODC 2018</a>. Consider to submit and attend!</li>
+<li>- Our paper "Shield: a Middleware to Tolerate CPU Transient Faults in Multicore Architectures" has been accepted for publication at <a href="http://www.ieee-nca.org/2017/">NCA 2017</a>.</li>
